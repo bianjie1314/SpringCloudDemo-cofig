@@ -55,4 +55,4 @@ eureka:
   instance:
     prefer-ip-address: true
 
-envName:order1
+envName: order1
